@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: gibraltar-sample-templates
+  description: forked from backstage examples
+spec:
+  lifecycle: experimental
+  owner: cpet-core
+  targets:
+    - ./scaffolder-templates/clean-architecture-app/template.yaml
