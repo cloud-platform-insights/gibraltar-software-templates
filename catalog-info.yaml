@@ -8,3 +8,8 @@ spec:
   owner: cpet-core
   targets:
     - ./scaffolder-templates/clean-architecture-app/template.yaml
+    - ./scaffolder-templates/create-react-app/template.yaml
+    - ./scaffolder-templates/docs-template/template.yaml
+    - ./scaffolder-templates/pull-request/template.yaml
+    - ./scaffolder-templates/rails-demo/template.yaml
+    - ./scaffolder-templates/springboot-grpc-template/template.yaml
